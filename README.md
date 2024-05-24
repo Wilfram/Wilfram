@@ -28,11 +28,5 @@ I love learning about new technologies 🌐 and always strive to improve my skil
   <img src="https://github-contributor-stats.vercel.app/api?username=Wilfram&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 400px;">
 </div>
 <hr>
-<div align="right">
-    <div>
-        <span style="margin-right: 5px;">Visitas / Visits:</span>
-            <img src="https://visitcount.itsvg.in/api?id=Wilfram&icon=2&color=8" alt="Visitas" style="vertical-align: middle;">
-    </div>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and edited by Wil -->
