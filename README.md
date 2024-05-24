@@ -1,8 +1,8 @@
-<h1>💫 Sobre mí:</h1>
+# 💫 Sobre mí:
 ¡Hola! Soy un estudiante de 18 años de programación y diseño de Colombia 🇨🇴, apasionado por el desarrollo web 💻. <br>
 Me encanta aprender sobre nuevas tecnologías 🌐 y siempre busco mejorar mis habilidades 📚. <br>¡Explorando el mundo del código y el diseño con entusiasmo y curiosidad! 🚀✨<br><br>¡Echa un vistazo a mis proyectos en GitHub y acompáñame en este emocionante viaje! 👨‍💻<br>
 
-<h1>💫 About Me:</h1>
+# 💫 About Me:
 Hi there! I am an 18-year-old programming and design student from Colombia 🇨🇴, passionate about web development💻. <br>
 I love learning about new technologies 🌐 and always strive to improve my skills 📚. <br>Exploring the world of coding and design with enthusiasm and curiosity! 🚀✨<br><br>Check out my projects on GitHub and join me on this exciting journey! 👨‍💻<br><br>
 
@@ -14,7 +14,7 @@ I love learning about new technologies 🌐 and always strive to improve my skil
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white&labelColor=2c3e50&logoWidth=20&labelPadding=5)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=2c3e50&logoWidth=20&labelPadding=5)
 
-<h1>📊 Estadísticas de GitHub / GitHub Stats:</h1>
+# 📊 Estadísticas de GitHub / GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilfram&theme=vue-dark&hide_border=false" alt="GitHub Streak" style="margin-right: 20px;">
@@ -23,7 +23,7 @@ I love learning about new technologies 🌐 and always strive to improve my skil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Langs" style="width: 430px;">
 </div>
 
-<h2>🔝 Repositorios Mas Contribuidos / Top Contributed Repositories:</h2>
+## 🔝 Repositorios Más Contribuidos / Top Contributed Repositories:
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Wilfram&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
