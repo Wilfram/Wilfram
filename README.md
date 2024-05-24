@@ -1,9 +1,9 @@
 # 💫 Sobre mí:
-¡Hola! Soy un estudiante de 18 años de programación y diseño de Colombia 🇨🇴, apasionado por el desarrollo web 💻. <br>
+¡Hola! Soy un estudiante de programación y diseño de Colombia 🇨🇴, apasionado por el desarrollo web 💻. <br>
 Me encanta aprender sobre nuevas tecnologías 🌐 y siempre busco mejorar mis habilidades 📚. <br>¡Explorando el mundo del código y el diseño con entusiasmo y curiosidad! 🚀✨<br><br>¡Echa un vistazo a mis proyectos en GitHub y acompáñame en este emocionante viaje! 👨‍💻<br>
 
 # 💫 About Me:
-Hi there! I am an 18-year-old programming and design student from Colombia 🇨🇴, passionate about web development💻. <br>
+Hi there! I am a programming and design student from Colombia 🇨🇴, passionate about web development💻. <br>
 I love learning about new technologies 🌐 and always strive to improve my skills 📚. <br>Exploring the world of coding and design with enthusiasm and curiosity! 🚀✨<br><br>Check out my projects on GitHub and join me on this exciting journey! 👨‍💻<br><br>
 
 # 💻 Tecnologías / Tech Stack:
