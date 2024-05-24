@@ -31,9 +31,7 @@ I love learning about new technologies 🌐 and always strive to improve my skil
 <div align="right">
     <div>
         <span style="margin-right: 5px;">Visitas / Visits:</span>
-        <a href="https://visitcount.itsvg.in" style="text-decoration: none;">
             <img src="https://visitcount.itsvg.in/api?id=Wilfram&icon=2&color=8" alt="Visitas" style="vertical-align: middle;">
-        </a>
     </div>
 </div>
 
