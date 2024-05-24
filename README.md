@@ -16,16 +16,16 @@ I love learning about new technologies 🌐 and always strive to improve my skil
 
 # 📊 Estadísticas de GitHub / GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px; max-width:300px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilfram&theme=vue-dark&hide_border=false" alt="GitHub Streak" style="max-width:330px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px; width:300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilfram&theme=vue-dark&hide_border=false" alt="GitHub Streak" style="width:330px;">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Langs" style="width: 420px; max-width: 420px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Langs" style="width: 380px;">
 </div>
 
 ## 🔝 Repositorios Más Contribuidos / Top Contributed Repositories:
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Wilfram&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Wilfram&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 380px;">
 </div>
 <hr>
 <div align="right">
