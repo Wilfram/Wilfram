@@ -17,10 +17,10 @@ I love learning about new technologies 🌐 and always strive to improve my skil
 # 📊 Estadísticas de GitHub / GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilfram&theme=vue-dark&hide_border=false" alt="GitHub Streak" style="margin-right: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilfram&theme=vue-dark&hide_border=false" alt="GitHub Streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Langs" style="width: 430px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfram&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Langs" style="width: 80%; height: 160px">
 </div>
 
 ## 🔝 Repositorios Más Contribuidos / Top Contributed Repositories:
