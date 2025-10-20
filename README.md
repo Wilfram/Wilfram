@@ -10,11 +10,12 @@ Soy un desarrollador colombiano enfocado en la creación de interfaces web moder
 
 Las herramientas con las que más disfruto y trabajo:
 
-| Categoría | Tecnologías Clave |
-| :--- | :--- | :--- | :--- |
-| **Frontend** | **React** | **Astro** | **Tailwind CSS** |
-| **Backend** | **Node.js** | **Laravel** | MongoDB / SQL |
-| **Herramientas** | Git / GitHub | VS Code | Vercel |
+| Categoría     | Tecnologías Clave               |
+| :------------ | :------------------------------|
+| **Frontend**  | React, Astro, Tailwind CSS      |
+| **Backend**   | Node.js, Laravel, MongoDB / SQL |
+| **Herramientas** | Git / GitHub, VS Code, Vercel |
+
 
 ---
 
@@ -34,5 +35,11 @@ Estoy abierto a nuevas oportunidades de colaboración y proyectos desafiantes.
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilfram&show_icons=true&theme=buefy&hide_rank=true" alt="Estadísticas de GitHub" />
+  <a href="https://github.com/Wilfram" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Wilfram&show_icons=true&theme=buefy&hide_rank=true" 
+      alt="Estadísticas de GitHub" 
+      style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); border: 1px solid #e1e4e8; max-width: 90%;"
+    />
+  </a>
 </p>
