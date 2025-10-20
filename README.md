@@ -49,8 +49,14 @@ Estoy abierto a nuevas oportunidades de colaboración y proyectos desafiantes.
 
 ## 📊 Mis Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilfram&show_icons=true&theme=radical&count_private=true&hide_rank=false)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilfram&show_icons=true&theme=radical&count_private=true&hide_rank=false" alt="Estadísticas de GitHub" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); border: 1px solid #e1e4e8; max-width: 90%;"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wilfram&theme=radical&hide_border=false)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wilfram&theme=radical&hide_border=false" alt="Racha de GitHub" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); border: 1px solid #e1e4e8; max-width: 90%;"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfram&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfram&layout=compact&theme=radical" alt="Lenguajes más usados" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); border: 1px solid #e1e4e8; max-width: 90%;"/>
+</p>
