@@ -11,10 +11,10 @@ Soy un desarrollador colombiano enfocado en la creación de interfaces web moder
 Las herramientas con las que más disfruto y trabajo:
 
 | Categoría | Tecnologías Clave |
-| :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | **Frontend** | **React** | **Astro** | **Tailwind CSS** |
-| **Backend** | **Node.js** | **Laravel** | PostgreSQL / MySQL |
-| **Herramientas** | Git / GitHub | VS Code | Vercel / Netlify |
+| **Backend** | **Node.js** | **Laravel** | MongoDB / SQL |
+| **Herramientas** | Git / GitHub | VS Code | Vercel |
 
 ---
 
