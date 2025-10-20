@@ -10,12 +10,22 @@ Soy un desarrollador colombiano enfocado en la creación de interfaces web moder
 
 Las herramientas con las que más disfruto y trabajo:
 
-| Categoría     | Tecnologías Clave               |
-| :------------ | :------------------------------|
-| **Frontend**  | React, Astro, Tailwind CSS      |
-| **Backend**   | Node.js, Laravel, MongoDB / SQL |
-| **Herramientas** | Git / GitHub, VS Code, Vercel |
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-0A0A0A?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -34,6 +44,7 @@ Estoy abierto a nuevas oportunidades de colaboración y proyectos desafiantes.
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-eta-41.vercel.app/)
 
 ---
+
 <p align="center">
   <a href="https://github.com/Wilfram" target="_blank">
     <img 
