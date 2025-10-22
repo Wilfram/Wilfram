@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/sxsk1TmH/Desktop-1.jpg)
+[![banner.jpg](https://i.postimg.cc/y8hw67DM/banner.jpg)](https://postimg.cc/SnsZDF7d)
 
 # ¡Hola! Soy Wil 👋
 
